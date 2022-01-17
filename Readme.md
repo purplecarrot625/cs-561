@@ -9,3 +9,5 @@ apimocker -c /Users/luanjiawei/Desktop/cs-561/mock/config.json
 
 Open webpage with a browser
 http://localhost:7878/data/2.5/weather
+
+author: Jiawei
